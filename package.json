@@ -1,0 +1,15 @@
+{
+  "name": "tdd-assignment",
+  "version": "1.0.0",
+  "description": "In today's assignment, we will be using TDD in a real-world scenario, to calculate the total for a shopping cart. Let's dive into what the requirements for our JavaScript function are.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch-all"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
